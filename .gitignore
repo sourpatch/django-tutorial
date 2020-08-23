@@ -1,0 +1,13 @@
+*.o
+*.pyc
+*.sqlite3
+*.db
+*.DS_Store
+
+.idea/
+.vscode/
+
+vendor/
+node_modules/
+out/
+build/
